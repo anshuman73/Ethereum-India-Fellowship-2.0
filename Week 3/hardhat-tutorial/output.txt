@@ -1,0 +1,4 @@
+npx hardhat run scripts/deploy.js --network ropsten
+Deploying contracts with the account: 0x84d7C74644636C713748b73a9076Ac9E98B4469B
+Account balance: 4000000000000000000
+Token address: 0x9e5E6F90b78499C9CAF65B79A49E6A90A0bd6B23
